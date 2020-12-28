@@ -17,4 +17,10 @@ Here are some ideas to get you started:
 
 <!-- ![](https://github-profile-trophy.vercel.app/?username=FontEndArt&theme=flat&column=6) -->
 
-Now is no time to think of what you do not have. Think of what you can do with what there is.
+一条鱼一直不开心，它游到老鱼面前说：“我要找到他们称之为海洋的东西。”
+
+“海洋？”老鱼说，“你现在就在海洋里啊。”
+
+“这儿？”小鱼说，“我只是在水里而已，我想要的是海洋。”
+
+![UTOOLS1609141145911.png](https://img03.sogoucdn.com/app/a/100520146/f2f350e1d7834026eb4376eb7031cf33)
