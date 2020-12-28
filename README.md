@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **FontEndArt/FontEndArt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](https://github-readme-stats.vercel.app/api?username=FontEndArt&show_icons=true)
+
+<!-- ![](https://github-profile-trophy.vercel.app/?username=FontEndArt&theme=flat&column=6) -->
+
+Now is no time to think of what you do not have. Think of what you can do with what there is.
